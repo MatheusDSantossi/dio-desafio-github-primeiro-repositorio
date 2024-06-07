@@ -10,3 +10,4 @@ Repositório criado para o Desaio de Projeto 💻
 
 * testando comando git push
 * testando comando git pull
+* testando comando git fetch
