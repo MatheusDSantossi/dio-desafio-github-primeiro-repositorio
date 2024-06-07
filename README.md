@@ -9,3 +9,4 @@ Repositório criado para o Desaio de Projeto 💻
 ### Adicionei a pasta do curso de introdução ao Git/GitHub feito também na dio nesse repositório
 
 * testando comando git push
+* testando comando git pull
